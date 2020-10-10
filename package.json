@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KAISHUNLI/KAISHUNLI.github.io/issues"
   },
-  "homepage": "https://github.com/KAISHUNLI/KAISHUNLI.github.io#readme"
+  "homepage": "https://github.com/KAISHUNLI/KAISHUNLI.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.6.0"
+  }
 }
