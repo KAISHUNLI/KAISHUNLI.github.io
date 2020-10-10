@@ -1,0 +1,20 @@
+{
+  "name": "KAISHUNLI.github.io",
+  "version": "1.0.0",
+  "description": "jskjkaljlkaj\r This is my first Blog,Thank You.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KAISHUNLI/KAISHUNLI.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KAISHUNLI/KAISHUNLI.github.io/issues"
+  },
+  "homepage": "https://github.com/KAISHUNLI/KAISHUNLI.github.io#readme"
+}
